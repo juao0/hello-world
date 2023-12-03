@@ -1,2 +1,5 @@
 # hello-world
-estou aprendendo a usar o github
+estou aprendendo a usar o github, isso tudo parece muito confuso hahaha
+...
+bom, quero aprender desenvolvimento de sistemas, mas será que eu sou capaz? será que eu vou conseguir entender esses códigos?
+Sim, eu vou! Não quero desistir tão fácil assim...
